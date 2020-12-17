@@ -7,6 +7,8 @@
 [Qh](#qh)
 [Qanth](#qanth)
 [Qstor](#qstor)
+[SWup](#swup)
+[LWup](#lwup)
 [Qg](#qg)
 [Qanth_Qh](#qanth_qh)
 [Qanth_Qle](#qanth_qle)
@@ -72,6 +74,12 @@
 
 ### <a name="qstor"></a>Qstor: Net storage heat flux in all materials (increase)
 [![Qstor](AU-Preston_baseline_Qstor.png)](AU-Preston_baseline_Qstor.png)
+
+### <a name="swup"></a>SWup: Upwelling shortwave radiation flux (downward)
+[![SWup](AU-Preston_baseline_SWup.png)](AU-Preston_baseline_SWup.png)
+
+### <a name="lwup"></a>LWup: Upwelling longwave radiation flux (upward)
+[![LWup](AU-Preston_baseline_LWup.png)](AU-Preston_baseline_LWup.png)
 
 ### <a name="qg"></a>Qg: Ground heat flux (downward)
 [![Qg](AU-Preston_baseline_Qg.png)](AU-Preston_baseline_Qg.png)
@@ -222,6 +230,8 @@
 [Qh](#qh)
 [Qanth](#qanth)
 [Qstor](#qstor)
+[SWup](#swup)
+[LWup](#lwup)
 [Qg](#qg)
 [Qanth_Qh](#qanth_qh)
 [Qanth_Qle](#qanth_qle)
