@@ -24,7 +24,7 @@
 
 #downloads {
   position: absolute;
-  width: 210px;
+  width: 300px;
   z-index: 10;
   bottom: -40px;
   right: 0;
@@ -49,7 +49,7 @@
   height:70px;
   text-indent: -5000px;
   overflow: hidden;
-  background: url(../images/sprite_download4.png) no-repeat bottom right;
+  background: url(../images/sprite_download4.png) no-repeat bottom center;
 }
 
 .tar_download_link {
@@ -68,7 +68,7 @@
 }
 
 .scripts_link:hover {
-  background: url(../images/sprite_download4.png) no-repeat top right;
+  background: url(../images/sprite_download4.png) no-repeat top center;
 }
 
 .tar_download_link:hover {
