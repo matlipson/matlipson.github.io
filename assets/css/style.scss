@@ -32,6 +32,16 @@
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
+.phase_one {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/sprite_download3.png) no-repeat bottom right;
+}
+
 .scripts_link {
   display: block;
   float: right;
